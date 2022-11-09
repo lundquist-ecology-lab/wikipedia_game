@@ -4,7 +4,7 @@ Setup:
 
 ```
 pip install nicegui
-pip install import wikipedia
+pip install wikipedia
 pip install random
 pip install nltk
 pip install re
