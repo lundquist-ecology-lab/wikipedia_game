@@ -18,4 +18,4 @@ The NiceGUI server will host on http://localhost:8080
 
 It should look something like this:
 
-[image](screenshot.png)
+![image](screenshot.png)
