@@ -15,7 +15,7 @@ result = "Emmanuel Macron"
 para = wikipedia.summary(result)
 para = re.sub("Emmanuel", "XXXX", para)
 para = re.sub("Macron", "XXXX", para)
-para = re.sub("\(.*?\)","[XXXX]", para)
+para = re.sub(,"[XXXX]", para)
 
 punkt_params = PunktParameters()
 punkt_params.abbrev_types = set(['Mr', 'Mrs', 'LLC', 'fl'])
